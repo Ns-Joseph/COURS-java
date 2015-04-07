@@ -1,5 +1,8 @@
 eclipse.preferences.version=1
 encoding/cleRIB.py=utf-8
 encoding/dietetique.py=utf-8
+encoding/horlogeMiroir.py=utf-8
+encoding/interpolation.py=utf-8
 encoding/nombreAmi.py=utf-8
 encoding/reglageHorloge.py=utf-8
+encoding/sommeImpairs.py=utf-8
