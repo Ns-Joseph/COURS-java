@@ -91,7 +91,7 @@ Question 4 :
 6 est ami avec lui-même, c'est un nombre parfait.
 """
 
-print "220 est ami avec " + str(trouveAmi(6)) + "."
+print "6 est ami avec " + str(trouveAmi(6)) + "."
 
 """
 Question 5 :
@@ -114,8 +114,6 @@ trouveAmis(13)
 
 """
 Résultat :
-220 est ami avec 284.
-220 est ami avec 6.
 6 est parfait.
 28 est parfait.
 220 est ami avec 284.
